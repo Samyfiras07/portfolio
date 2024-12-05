@@ -22,23 +22,20 @@ const projects = [
   {
     num: "01",
     category: "frontend",
-    title: "project 1",
+    title: "XORA",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem laudantiu",
+      "We designed XORA AI Video Editor to be an easy to use, quick to learn, and surprisingly powerful.",
     stack: [
       {
-        name: "html 5",
+        name: "ReactJS",
       },
       {
-        name: "css 3",
-      },
-      {
-        name: "javascript",
+        name: "Tailwindcss",
       },
     ],
     image: "/assets/work/thumb1.png",
-    live: "",
-    github: "https://github.com",
+    live: "https://www.xora-saas-ui.com",
+    github: "https://github.com/Samyfiras07/XORA-saas/tree/master",
   },
   {
     num: "02",

@@ -9,6 +9,7 @@ const services = [
     title: "Web Development",
     description:
       "I build modern, responsive, and dynamic websites tailored to your business needs, ensuring optimal performance and a seamless user experience.",
+
     href: "",
   },
   {
@@ -16,6 +17,7 @@ const services = [
     title: "Graphic Design",
     description:
       "Creating visually appealing designs that communicate your brand’s identity effectively, from logos and banners to marketing materials.",
+
     href: "",
   },
   {
@@ -23,6 +25,7 @@ const services = [
     title: "UX/UI Design",
     description:
       "Designing intuitive and user-centered interfaces that enhance user engagement and improve overall satisfaction.",
+
     href: "",
   },
   {
@@ -30,6 +33,7 @@ const services = [
     title: "SEO",
     description:
       "Optimizing your website to improve search engine rankings, drive organic traffic, and maximize visibility for your brand.",
+
     href: "",
   },
 ];
