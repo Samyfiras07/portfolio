@@ -1,3 +1,5 @@
+"use client";
+
 import Photo from "@/components/Photo";
 import Social from "@/components/Social";
 import Stats from "@/components/Stats";
@@ -24,6 +26,12 @@ const Home = () => {
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button
+                onClick={() => {
+                  const link = document.createElement("a");
+                  link.href = "/assets/work/CVlaissoub.pdf"; // Chemin vers le fichier
+                  link.download = "Samy_Firas_CV.pdf"; // Nom du fichier téléchargé
+                  link.click();
+                }}
                 variant="outline"
                 size="lg"
                 className="uppercase flex items-center gap-2"
