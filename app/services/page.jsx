@@ -8,28 +8,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero perferendis exercitationem sunt ea eaque culpa?",
+      "I build modern, responsive, and dynamic websites tailored to your business needs, ensuring optimal performance and a seamless user experience.",
     href: "",
   },
   {
     num: "02",
     title: "Graphic Design",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero perferendis exercitationem sunt ea eaque culpa?",
+      "Creating visually appealing designs that communicate your brand’s identity effectively, from logos and banners to marketing materials.",
     href: "",
   },
   {
     num: "03",
     title: "UX/UI Design",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero perferendis exercitationem sunt ea eaque culpa?",
+      "Designing intuitive and user-centered interfaces that enhance user engagement and improve overall satisfaction.",
     href: "",
   },
   {
     num: "04",
     title: "SEO",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero perferendis exercitationem sunt ea eaque culpa?",
+      "Optimizing your website to improve search engine rankings, drive organic traffic, and maximize visibility for your brand.",
     href: "",
   },
 ];
