@@ -8,7 +8,6 @@ const socials = [
     path: "https://www.linkedin.com/in/sami-firas-laissoub-26b6ab2b4/",
   },
   { icon: <FaInstagram />, path: "https://www.instagram.com/samy_codes/" },
-  { icon: <FaMedium />, path: "" },
 ];
 const Social = ({ containerStyles, iconStyles }) => {
   return (
